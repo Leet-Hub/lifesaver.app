@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753184173479",
+    "project_id": "lifesaver-3198d",
+    "storage_bucket": "lifesaver-3198d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753184173479:android:f146983d5ecc629e9cda82",
+        "android_client_info": {
+          "package_name": "com.leethub.lifesaver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXuW66Lk6PYg_V7QJaYP7iIdU1amUILo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

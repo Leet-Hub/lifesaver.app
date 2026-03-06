@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LifeSaver</string>
+    <string name="prompt_register">Don\'t have an account? Register</string>
+    <string name="prompt_login">Already have an account? Login</string>
+</resources>
